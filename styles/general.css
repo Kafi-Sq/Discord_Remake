@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding-left: 75px;
+    padding-top: 26px;
+    box-sizing: border-box;
+    background-color: #202225;
+    font-family: sans-serif;
+    overflow: hidden;
+    position: relative;
+}
